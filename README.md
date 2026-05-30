@@ -11,7 +11,7 @@ A full-stack bioinformatics platform designed to assess the impact of viral evol
 ## Screenshots
 
 ### Home Page
-<img width="1776" height="1097" alt="Screenshot 2026-05-31 at 4 10 37 AM" src="https://github.com/user-attachments/assets/cecf0bd3-c3a5-4e4e-8b2c-d7769205a399" />
+![Home Page](screenshots/homepage.png)
 
 ### Sequence Upload Workflow
 <img width="1776" height="1097" alt="Screenshot 2026-05-31 at 4 43 21 AM" src="https://github.com/user-attachments/assets/d248c62e-71ae-451f-ba16-186a1e96fd5c" />
