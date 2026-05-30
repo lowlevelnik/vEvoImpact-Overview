@@ -4,6 +4,22 @@
 
 A full-stack bioinformatics platform designed to assess the impact of viral evolution on RT-PCR diagnostic performance.
 
+> Source code is maintained in a private repository due to research and intellectual property considerations. This repository documents the project's architecture, features, implementation, and results.
+
+## Quick Demo
+
+## Screenshots
+
+### Home Page
+<img width="1776" height="1097" alt="Screenshot 2026-05-31 at 4 10 37 AM" src="https://github.com/user-attachments/assets/cecf0bd3-c3a5-4e4e-8b2c-d7769205a399" />
+
+### Sequence Upload Workflow
+<img width="1776" height="1097" alt="Screenshot 2026-05-31 at 4 43 21 AM" src="https://github.com/user-attachments/assets/d248c62e-71ae-451f-ba16-186a1e96fd5c" />
+
+### Results Visualization
+<img width="1776" height="1097" alt="Screenshot 2026-05-31 at 4 14 15 AM" src="https://github.com/user-attachments/assets/0336a154-96ae-4837-bdc3-959499f0d737" />
+
+
 ## Overview
 
 RT-PCR remains one of the most widely used methods for detecting viral infections. However, as viruses evolve, mutations can emerge within primer and probe binding regions, potentially reducing the effectiveness of diagnostic assays.
