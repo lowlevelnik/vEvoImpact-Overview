@@ -7,7 +7,7 @@ A full-stack bioinformatics platform designed to assess the impact of viral evol
 > Source code is maintained in a private repository due to research and intellectual property considerations. This repository documents the project's architecture, features, implementation, and results.
 
 ## Quick Demo
-![demo](images/demo.mov)
+![demo](images/demo.mp4)
 
 ## Screenshots
 
